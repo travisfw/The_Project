@@ -1,4 +1,8 @@
-# The Project
+---
+title: Infrastructure
+authors: Venessa Miemis, Harlan Knight Wood
+layout: post
+---
 
 ## Communications / Awareness
 
