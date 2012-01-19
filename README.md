@@ -1,6 +1,6 @@
-This is the sourcecode that generates [opensourcegeniusclub.cc][].  To make your own version:
+This is the sourcecode that generates [theproject.hkw7.org][].  To make your own version:
 
-* Visit [github.com/enlightenedstructure/The_Project][]
+* Visit [github.com/onesunone/The_Project][]
 * Log into / create account on Github if necessary
 * Press the "Fork" button
 * Edit or add pages as desired
@@ -10,6 +10,6 @@ This is the sourcecode that generates [opensourcegeniusclub.cc][].  To make your
 
 
 
-[opensourcegeniusclub.cc]: http://opensourcegeniusclub.cc/
-[github.com/enlightenedstructure/The_Project]: https://github.com/enlightenedstructure/The_Project
+[theproject.hkw7.org]: http://theproject.hkw7.org/
+[github.com/onesunone/The_Project]: https://github.com/onesunone/The_Project
 [Github Pages]: http://pages.github.com/
